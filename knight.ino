@@ -1,3 +1,19 @@
+/*
+ * -----------------------------------------------
+ *  Made with ❤️ by Cristian from Cristi Media Group
+ *  Bike Signal System - Arduino Project
+ *  Date: 26.05.2025
+ * -----------------------------------------------
+ *  Project Description:
+ *  This project creates a bike signal system
+ *  with features like brake detection, turn signals,
+ *  Knight Rider LED effect, and web control via WiFi.
+ * -----------------------------------------------
+ *  For more projects, visit:
+ *  www.cristimediagroup.com
+ * -----------------------------------------------
+ */
+
 #include "WiFiS3.h"
 #include "ArduinoGraphics.h"
 #include "Arduino_LED_Matrix.h"
